@@ -6,7 +6,7 @@ Make the opportunity visible, make the process understandable and help students 
 
 Use this operating model: **student ambassador + faculty sponsor + backup contact**, connected to career services, the writing center, accessibility services and the international office. Ambassadors can be students, staff or faculty depending on local capacity.
 
-No institutional roster was provided for this first edition. Before announcing a department program, fill in the [downloadable roster](downloads/department-roster.csv), confirm people’s consent and publish only their approved professional contact details.
+Before announcing a department program, complete the [downloadable Excel roster](downloads/department-roster.xlsx), confirm people’s consent and publish only their approved professional contact details.
 
 | Department role | Responsibility |
 | --- | --- |

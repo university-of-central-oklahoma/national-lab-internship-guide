@@ -4,12 +4,12 @@ Use these working documents to organize the process. Customize them for each pro
 
 ## Download your working files
 
-- [Application tracker · CSV](downloads/application-tracker.csv) — deadlines, job IDs, mentor outreach, letters, interviews and next actions.
+- [Application tracker · Excel](downloads/application-tracker.xlsx) — deadlines, job IDs, mentor outreach, letters, interviews and next actions.
 - [Shared opportunities spreadsheet](https://docs.google.com/spreadsheets/d/1XfAbQf3lic7tOpiT_JgilAPFzAPPrtLPZBIZlM1TGBk/edit?usp=sharing) — browse the separately maintained opportunity list.
-- [Department ambassador roster · CSV](downloads/department-roster.csv) — blank fields for approved local contacts.
+- [Department ambassador roster · Excel](downloads/department-roster.xlsx) — fields for approved local contacts.
 - [Email and research-brief templates · TXT](downloads/templates.txt) — editable outreach, recommendation request, follow-up and interview notes.
 
-Open CSV files in Excel, Google Sheets or another spreadsheet app. The tracker is a blank personal template. Keep sensitive identity and immigration records in the appropriate secure institutional process.
+Download the Excel (.xlsx) files and open them in Microsoft Excel, or import them into Google Sheets. Save your own copy before adding information. Keep sensitive identity and immigration records in the appropriate secure institutional process.
 
 ## Request a recommendation
 
