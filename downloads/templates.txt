@@ -1,0 +1,63 @@
+LABPATH APPLICATION WORKING TEMPLATES
+Customize all placeholders. These templates do not send messages.
+
+1. MENTOR OUTREACH
+Subject: [Program/job ID] - interest in [specific research topic]
+Dear Dr. [Name],
+I am a [year/degree] student in [field] at [institution], preparing to apply for [program] for [term/dates]. I read your [paper/project] and was interested in [specific method/finding]. In [project], I [individual action/result]. I would like to explore [related question]. Are you expecting to mentor students through this route, or is there a program contact you recommend?
+Thank you,
+[Name and professional contact]
+
+2. RECOMMENDATION REQUEST
+Subject: Recommendation request - [program], due [date/time/timezone]
+Dear Professor [Name],
+Would you be willing to write a strong recommendation for [program] based on my work in [context]? The deadline is [date/time/timezone] and submission is through [official instructions]. I can provide my resume, academic record, draft responses and a short summary of our work together. I understand if your schedule does not allow this.
+Thank you,
+[Name]
+
+3. ONE-PAGE RESEARCH-FIT BRIEF
+Name / degree / institution / availability:
+Program / official URL / job ID:
+Group / potential mentor:
+Research question:
+Recent paper/project and one method or finding:
+Relevant preparation / individual contribution:
+Evidence or result:
+What I can contribute:
+What I need to learn:
+One feasible project direction:
+Questions for program office:
+Next action / date:
+
+4. OUTREACH FOLLOW-UP
+Dear Dr. [Name],
+I am following up on my message below about [topic/program]. I remain interested in [specific research fit]. If you are not the right contact, I would appreciate a pointer to the program office. Thank you for considering my question.
+[Name]
+
+5. INTERVIEW THANK-YOU
+Subject: Thank you - [position/program]
+Dear [Name],
+Thank you for discussing [project]. I enjoyed learning about [specific point]. The connection to my experience in [relevant work] strengthened my interest. As promised, here is [requested material]. Please let me know if you need anything further.
+Best,
+[Name]
+
+6. INTERVIEW NOTES
+Program / lab / job ID:
+Interviewer names and roles:
+Date / time / timezone / format:
+Two-minute introduction:
+Technical project explanation:
+Troubleshooting / teamwork / learning examples:
+Questions on scope / supervision / deliverables:
+Questions for program office on logistics:
+Materials promised:
+Expected next step / date:
+Thank-you sent:
+Next action:
+
+7. STATUS INQUIRY
+Subject: Application status - [program/job ID]
+Dear [Coordinator],
+I am checking on next steps for [program/job ID], following [submission/interview date]. [The indicated decision date was date, if applicable.] I remain interested and would appreciate any update on the timeline or additional information needed.
+Thank you,
+[Name]
