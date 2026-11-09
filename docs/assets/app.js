@@ -1,0 +1,10 @@
+document.addEventListener('DOMContentLoaded',()=>{
+ const read=(key,fallback)=>{try{return JSON.parse(localStorage.getItem(key))??fallback}catch{return fallback}};
+ const write=(key,value)=>{try{localStorage.setItem(key,JSON.stringify(value))}catch{}};
+ let saved=new Set(read('labpath-shortlist',[]));
+ const search=document.getElementById('op-search'),level=document.getElementById('op-level'),status=document.getElementById('op-status'),only=document.getElementById('saved-only');
+ const cards=[...document.querySelectorAll('.opportunity')];
+ function filter(){let n=0;for(const c of cards){let show=(!search.value||c.textContent.toLowerCase().includes(search.value.toLowerCase()))&&(!level.value||c.dataset.level.split(' ').includes(level.value))&&(!status.value||c.dataset.status===status.value)&&(!only.checked||saved.has(c.id));c.hidden=!show;if(show)n++}document.getElementById('result-count').textContent=n+' of '+cards.length+' pathways';document.getElementById('no-results').hidden=n>0}
+ if(search){[search,level,status,only].forEach(e=>e.addEventListener('input',filter));document.getElementById('reset-filters').addEventListener('click',()=>{search.value='';level.value='';status.value='';only.checked=false;filter()});document.querySelectorAll('.save-button').forEach(b=>{const update=()=>{b.setAttribute('aria-pressed',String(saved.has(b.dataset.id)));b.textContent=saved.has(b.dataset.id)?'Saved ✓':'Save pathway'};update();b.addEventListener('click',()=>{saved.has(b.dataset.id)?saved.delete(b.dataset.id):saved.add(b.dataset.id);write('labpath-shortlist',[...saved]);update();filter()})});filter();}
+ document.querySelectorAll('.local-checklist').forEach(list=>{const boxes=[...list.querySelectorAll('input[type=checkbox]')],key='labpath-checklist-'+list.id,values=read(key,[]);boxes.forEach((b,i)=>{b.checked=values.includes(i);b.addEventListener('change',()=>{write(key,boxes.flatMap((x,j)=>x.checked?[j]:[]));update()})});function update(){const n=boxes.filter(b=>b.checked).length;list.querySelector('progress').value=n;list.querySelector('.check-status').textContent=n+' of '+boxes.length+' completed'}update()});
+});

@@ -1,0 +1,53 @@
+site_name: LabPath
+site_description: Your field guide to national laboratory internships. For students, faculty, and department ambassadors.
+site_url: https://national-lab-internship-guide.workspace-673857.chatgpt.site/
+site_dir: dist
+theme:
+  name: material
+  font: false
+  logo: assets/mark.svg
+  favicon: assets/mark.svg
+  palette:
+    primary: teal
+    accent: amber
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - content.code.copy
+nav:
+  - Start here: index.md
+  - Student guide:
+      - Your application roadmap: students/roadmap.md
+      - Documents & recommendations: students/documents.md
+      - Find & contact a mentor: students/outreach.md
+      - Interviews & follow-up: students/interviews.md
+      - Offers & onboarding: students/onboarding.md
+  - 30 opportunities: opportunities.md
+  - Eligibility: eligibility.md
+  - Faculty guide: faculty.md
+  - Ambassador playbook: ambassadors.md
+  - Templates & tracker: toolkit.md
+  - Sources & upkeep: sources.md
+plugins:
+  - search
+markdown_extensions:
+  - admonition
+  - attr_list
+  - md_in_html
+  - tables
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.tasklist:
+      custom_checkbox: true
+extra_css:
+  - assets/styles.css
+extra_javascript:
+  - assets/app.js
+extra:
+  generator: false
+copyright: Independent educational guide · Official program rules govern eligibility · Reviewed November 9, 2026
