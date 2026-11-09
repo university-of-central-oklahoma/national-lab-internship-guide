@@ -25,7 +25,7 @@ National labs need more than one kind of researcher. Explore computing, energy, 
 <div class="roles">
 <a class="role" href="students/roadmap/"><span class="number">01 / FOR STUDENTS</span><h3>Make your next move</h3><p>Choose a program, build a research story, prepare your documents and practice for the conversation.</p><span class="arrow">Follow the student roadmap →</span></a>
 <a class="role" href="faculty/"><span class="number">02 / FOR FACULTY</span><h3>Open a research door</h3><p>Help students find a fit, write specific recommendations and develop laboratory collaborations.</p><span class="arrow">Use the faculty guide →</span></a>
-<a class="role" href="committee/"><span class="number">03 / RESEARCH INTERNSHIP ADVISORY COMMITTEE</span><h3>Build a department pipeline</h3><p>Run application clinics, coordinate a referral network and make opportunities visible to every student.</p><span class="arrow">Meet the advisory committee →</span></a>
+<a class="role" href="committee/"><span class="number">03 / RESEARCH INTERNSHIP ADVISORY COMMITTEE</span><h3>Find a faculty contact</h3><p>Ask a focused question about research interests or where to find further guidance, as members’ schedules allow.</p><span class="arrow">Meet the advisory committee →</span></a>
 </div>
 
 ## From first idea to first day

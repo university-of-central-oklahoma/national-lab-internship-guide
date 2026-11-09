@@ -58,7 +58,7 @@ For [SCGSR](https://science.osti.gov/wdts/scgsr/Eligibility), coordinate with th
 
 For [VFP](https://science.osti.gov/wdts/vfp/Eligibility), first verify faculty citizenship/employment and institutional eligibility. Current rules generally exclude R1/R2 institutions under the cited classification, with an HBCU exception. Confirm the current details directly. Develop the proposal with the lab scientist and follow separate student rules if including students.
 
-## Run a faculty application clinic
+## Optional application support
 
 | Session | Focus | Student leaves with |
 | --- | --- | --- |
@@ -69,4 +69,4 @@ For [VFP](https://science.osti.gov/wdts/vfp/Eligibility), first verify faculty c
 
 ## Sustain the pipeline
 
-Coordinate with the Research Internship Advisory Committee. Share approved lab contacts and alumni experiences, track process barriers with consent and update guidance after each cycle. Recognize student outcomes beyond acceptance, including new research skills and stronger future applications.
+When time permits, share relevant opportunities or suggest a useful faculty or program contact. The Research Internship Advisory Committee can offer brief guidance as members’ schedules allow. Students remain responsible for their applications and deadlines.
