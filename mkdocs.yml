@@ -1,6 +1,6 @@
 site_name: National Application Lab Internship Guide
 site_description: Your field guide to national laboratory internships. For students, faculty, and the Research Internship Advisory Committee.
-site_url: https://national-lab-internship-guide.workspace-673857.chatgpt.site/
+site_url: https://university-of-central-oklahoma.github.io/national-lab-internship-guide/
 site_dir: dist
 theme:
   name: material
