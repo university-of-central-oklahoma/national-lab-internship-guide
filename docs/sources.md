@@ -26,10 +26,10 @@ The guide’s initial research was reviewed November 9, 2026. Check current inst
 
 ## Maintain the guide
 
-1. Assign a faculty owner and department ambassador, and record approved contacts before announcing office hours.
+1. Coordinate with the Research Internship Advisory Committee and confirm contact details before announcing office hours.
 2. Update opportunity listings in the shared spreadsheet. Review promoted deadlines and eligibility against the official program page before sending reminders.
 3. Edit website guidance in `docs/`, then run `mkdocs build --strict`. There is no opportunity-directory generator to run.
 4. If a requirement is unclear, ask the program office and mark it as needing confirmation. Do not infer citizenship eligibility from a laboratory name.
 5. Review guidance and contact information each semester. Collect optional, anonymized feedback about confusing application steps.
 
-The application checklist is stored locally in the visitor’s browser. No department contact roster has been supplied yet. This website does not submit applications or change spreadsheet permissions.
+The application checklist is stored locally in the visitor’s browser. This website does not submit applications or change spreadsheet permissions.

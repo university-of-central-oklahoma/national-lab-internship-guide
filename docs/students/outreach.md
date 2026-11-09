@@ -10,7 +10,7 @@ An effective message shows that you understand enough of the research to ask a u
 | Does this job accept my work-authorization category? | Recruiter/program office, alongside your university international office | Job ID and precise question; use a secure channel for records |
 | Does my interest fit a research group? | Researcher or group lead using their official public contact | One relevant paper/project, your contribution and an attainable question |
 | Can I align this with my degree or thesis? | Faculty advisor or graduate program director | Proposed dates, research scope and degree obligations |
-| How do I obtain an introduction? | Faculty mentor or department ambassador | A short research-fit paragraph they can forward with your permission |
+| How do I obtain an introduction? | Faculty mentor or Research Internship Advisory Committee member | A short research-fit paragraph they can forward with your permission |
 
 Use official staff directories, publication correspondence addresses or program contacts. Do not guess private email addresses. Ask the program office to route your question if no appropriate research contact is public.
 

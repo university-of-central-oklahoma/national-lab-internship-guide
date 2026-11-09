@@ -69,4 +69,4 @@ For [VFP](https://science.osti.gov/wdts/vfp/Eligibility), first verify faculty c
 
 ## Sustain the pipeline
 
-Coordinate with a department ambassador and backup faculty member. Share approved lab contacts and alumni experiences, track process barriers with consent and update guidance after each cycle. Recognize student outcomes beyond acceptance, including new research skills and stronger future applications.
+Coordinate with the Research Internship Advisory Committee. Share approved lab contacts and alumni experiences, track process barriers with consent and update guidance after each cycle. Recognize student outcomes beyond acceptance, including new research skills and stronger future applications.

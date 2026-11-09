@@ -1,5 +1,5 @@
 site_name: National Application Lab Internship Guide
-site_description: Your field guide to national laboratory internships. For students, faculty, and department ambassadors.
+site_description: Your field guide to national laboratory internships. For students, faculty, and the Research Internship Advisory Committee.
 site_url: https://national-lab-internship-guide.workspace-673857.chatgpt.site/
 site_dir: dist
 theme:
@@ -27,7 +27,7 @@ nav:
       - Offers & onboarding: students/onboarding.md
   - Eligibility: eligibility.md
   - Faculty guide: faculty.md
-  - Ambassador playbook: ambassadors.md
+  - Research Internship Advisory Committee: committee.md
   - Templates & tracker: toolkit.md
   - Sources & upkeep: sources.md
 plugins:

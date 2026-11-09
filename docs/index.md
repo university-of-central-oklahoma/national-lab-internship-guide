@@ -25,7 +25,7 @@ National labs need more than one kind of researcher. Explore computing, energy, 
 <div class="roles">
 <a class="role" href="students/roadmap/"><span class="number">01 / FOR STUDENTS</span><h3>Make your next move</h3><p>Choose a program, build a research story, prepare your documents and practice for the conversation.</p><span class="arrow">Follow the student roadmap →</span></a>
 <a class="role" href="faculty/"><span class="number">02 / FOR FACULTY</span><h3>Open a research door</h3><p>Help students find a fit, write specific recommendations and develop laboratory collaborations.</p><span class="arrow">Use the faculty guide →</span></a>
-<a class="role" href="ambassadors/"><span class="number">03 / FOR AMBASSADORS</span><h3>Build a department pipeline</h3><p>Run application clinics, coordinate a referral network and make opportunities visible to every student.</p><span class="arrow">Launch the ambassador playbook →</span></a>
+<a class="role" href="committee/"><span class="number">03 / RESEARCH INTERNSHIP ADVISORY COMMITTEE</span><h3>Build a department pipeline</h3><p>Run application clinics, coordinate a referral network and make opportunities visible to every student.</p><span class="arrow">Meet the advisory committee →</span></a>
 </div>
 
 ## From first idea to first day
@@ -39,7 +39,7 @@ National labs need more than one kind of researcher. Explore computing, energy, 
 | Undergraduate or recent graduate | [DOE SULI](https://science.osti.gov/wdts/suli/), then direct laboratory postings |
 | Master’s student | Direct graduate internships; check the [opportunities spreadsheet](https://docs.google.com/spreadsheets/d/1XfAbQf3lic7tOpiT_JgilAPFzAPPrtLPZBIZlM1TGBk/edit?usp=sharing) |
 | International student without permanent residency | [Eligibility guide](eligibility.md), then international pathways and individual job rules |
-| Faculty mentor or department coordinator | [Faculty guide](faculty.md) and [ambassador playbook](ambassadors.md) |
+| Faculty mentor or department coordinator | [Faculty guide](faculty.md) and [Research Internship Advisory Committee](committee.md) |
 
 <div class="note"><strong>Know the name:</strong> DOE’s undergraduate laboratory program is <strong>SULI</strong> — Science Undergraduate Laboratory Internships. “SURI” can refer to unrelated university programs. Check the sponsor before applying.</div>
 
