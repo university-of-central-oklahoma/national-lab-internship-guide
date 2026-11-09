@@ -1,4 +1,4 @@
-site_name: LabPath
+site_name: National Application Lab Internship Guide
 site_description: Your field guide to national laboratory internships. For students, faculty, and department ambassadors.
 site_url: https://national-lab-internship-guide.workspace-673857.chatgpt.site/
 site_dir: dist
@@ -25,7 +25,6 @@ nav:
       - Find & contact a mentor: students/outreach.md
       - Interviews & follow-up: students/interviews.md
       - Offers & onboarding: students/onboarding.md
-  - 30 opportunities: opportunities.md
   - Eligibility: eligibility.md
   - Faculty guide: faculty.md
   - Ambassador playbook: ambassadors.md

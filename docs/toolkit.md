@@ -5,7 +5,7 @@ Use these working documents to organize the process. Customize them for each pro
 ## Download your working files
 
 - [Application tracker · CSV](downloads/application-tracker.csv) — deadlines, job IDs, mentor outreach, letters, interviews and next actions.
-- [All 30 opportunities · CSV](downloads/opportunities.csv) — eligibility notes, preparation, next steps, official URLs and review dates.
+- [Shared opportunities spreadsheet](https://docs.google.com/spreadsheets/d/1XfAbQf3lic7tOpiT_JgilAPFzAPPrtLPZBIZlM1TGBk/edit?usp=sharing) — browse the separately maintained opportunity list.
 - [Department ambassador roster · CSV](downloads/department-roster.csv) — blank fields for approved local contacts.
 - [Email and research-brief templates · TXT](downloads/templates.txt) — editable outreach, recommendation request, follow-up and interview notes.
 

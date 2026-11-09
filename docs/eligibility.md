@@ -2,7 +2,7 @@
 
 Check eligibility at two levels: **the program’s funding and academic rules**, then **the specific position and laboratory-access rules**. A lab may host one program limited to citizens/permanent residents and another open to some other noncitizens.
 
-## Understand the directory categories
+## Understand common eligibility categories
 
 | Category | What it means | What to do |
 | --- | --- | --- |
@@ -11,7 +11,7 @@ Check eligibility at two levels: **the program’s funding and academic rules**,
 | International pathway | The source describes some noncitizen participation or U.S. work-authorized applicants | Confirm the job’s exact citizenship, access and authorization conditions; this does not promise sponsorship. |
 | Confirm with program | The overview does not resolve citizenship for the route | Ask the program office before assuming eligibility. |
 
-These categories are research aids, not individual eligibility decisions. “All categories” is the broadest search: citizens may qualify for international pathways too. Permanent residents should consider both citizen/LPR routes and other routes that meet their circumstances.
+These categories are research aids, not individual eligibility decisions. Citizens may qualify for international pathways too. Permanent residents should consider both citizen/LPR routes and other routes that meet their circumstances. Use the [shared opportunities spreadsheet](https://docs.google.com/spreadsheets/d/1XfAbQf3lic7tOpiT_JgilAPFzAPPrtLPZBIZlM1TGBk/edit?usp=sharing) to find programs to investigate.
 
 ## Five questions before you apply
 

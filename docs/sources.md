@@ -1,63 +1,35 @@
 # Sources & editorial upkeep
 
-This independent guide is for planning. Official program pages, current job postings and program offices determine requirements and selections. It is not affiliated with DOE or any laboratory. The guides contain editorial preparation advice; suggested outreach timing and document organization are not universal program requirements.
+This independent guide is for planning. Official program pages, current job postings and program offices determine requirements and selections. It is not affiliated with DOE or any laboratory. Suggested preparation and outreach timing are editorial advice, not universal program requirements.
 
-## What was reviewed
+## Shared opportunity list
 
-The directory was researched on **November 9, 2026** using the following official laboratory and DOE sources. Some catalog pages describe a program without publishing a current application window. A review date is not a guarantee that applications are open. Each record separates known eligibility from details to confirm.
+Browse the [shared opportunities spreadsheet](https://docs.google.com/spreadsheets/d/1XfAbQf3lic7tOpiT_JgilAPFzAPPrtLPZBIZlM1TGBk/edit?usp=sharing). Listings are maintained there, separately from this website. Spreadsheet edits do not require rebuilding MkDocs.
 
-“Top 30” is interpreted as a curated starting set across levels, topics and eligibility routes, not a measured quality ranking. We avoid counting the same SULI program once for every host. Faculty-led, fellowship and student-employment routes are included because they offer distinct ways to conduct laboratory research.
+Verify each listing against its official announcement. Record the program, laboratory, academic level, citizenship/eligibility, application timing, official URL, last-reviewed date and active/paused/archived status. Spreadsheet access follows its Google sharing settings.
 
-| Pathway | Official source | Review date |
-| --- | --- | --- |
-| DOE SULI | [Program source](https://science.osti.gov/wdts/suli/Eligibility) | 2026-11-09 |
-| DOE CCI | [Program source](https://science.osti.gov/wdts/cci/Eligibility) | 2026-11-09 |
-| DOE SCGSR | [Program source](https://science.osti.gov/wdts/scgsr/Eligibility) | 2026-11-09 |
-| DOE Visiting Faculty Program | [Program source](https://science.osti.gov/wdts/vfp/Eligibility) | 2026-11-09 |
-| Sandia internships & co-ops | [Program source](https://www.sandia.gov/careers/careers/students-and-postdocs/internships-co-ops/institute-programs/faqs/) | 2026-11-09 |
-| Oak Ridge Research Student Internships | [Program source](https://www.ornl.gov/internships/rsi/) | 2026-11-09 |
-| LANL Undergraduate Student Program | [Program source](https://lanl.jobs/students) | 2026-11-09 |
-| LANL Graduate Research Assistant | [Program source](https://lanl.jobs/students) | 2026-11-09 |
-| Idaho National Laboratory internships | [Program source](https://inl.gov/internships/) | 2026-11-09 |
-| LLNL Computing internships | [Program source](https://computing.llnl.gov/careers/interns) | 2026-11-09 |
-| LLNL Data Science Summer Institute | [Program source](https://data-science.llnl.gov/dssi/apply) | 2026-11-09 |
-| Berkeley Lab Computing Sciences summer program | [Program source](https://education.lbl.gov/internships/) | 2026-11-09 |
-| Berkeley Lab ScienceIT internships | [Program source](https://it.lbl.gov/about/education-outreach/science-it-internships/) | 2026-11-09 |
-| PNNL Project Interns | [Program source](https://www.pnnl.gov/project-interns) | 2026-11-09 |
-| PNNL National Security Internship Program | [Program source](https://www.pnnl.gov/internships) | 2026-11-09 |
-| Argonne Research Aide appointments | [Program source](https://intro-hpc-bootcamp.alcf.anl.gov/sites/hpc/files/2025-09/StudentOpportunitiesNextSteps.pdf) | 2026-11-09 |
-| Berkeley Lab Foundry Undergraduate Summer Experience | [Program source](https://foundry.lbl.gov/about/careers/fuse/) | 2026-11-09 |
-| Brookhaven Science Communication internship | [Program source](https://www.bnl.gov/education/college-students.php) | 2026-11-09 |
-| Fermilab Computational Science Internship | [Program source](https://internships.fnal.gov/fermilab-computational-science-internship/) | 2026-11-09 |
-| Fermilab ASPIRE | [Program source](https://internships.fnal.gov/https-fermilab-wd5-myworkdayjobs-com-en-us-fermilabcareers-details-aspire-fellowship_r_007434qaspire/) | 2026-11-09 |
-| SLAC Summer Internship Program | [Program source](https://careers.slac.stanford.edu/slac-summer-internship-program) | 2026-11-09 |
-| PPPL Operations Internship Program | [Program source](https://www.pppl.gov/pppl-undergraduate-internship-program) | 2026-11-09 |
-| Jefferson Lab / ODU REU | [Program source](https://www.jlab.org/stem/programs) | 2026-11-09 |
-| Jefferson Lab EIC Graduate Fellowship | [Program source](https://www.jlab.org/stem/programs) | 2026-11-09 |
-| Ames METALLIC internships | [Program source](https://www.ameslab.gov/metallic-internship-program-at-ames-national-laboratory) | 2026-11-09 |
-| SRNL ASPIRE / direct internships | [Program source](https://www.srnl.gov/partner-with-us/academia/internships/) | 2026-11-09 |
-| NETL Professional Internship Program | [Program source](https://netl.doe.gov/education/internships/programs) | 2026-11-09 |
-| NLR Research Participant Program | [Program source](https://www.nlr.gov/careers/nlr-internships) | 2026-11-09 |
-| Mickey Leland Energy Fellowship | [Program source](https://netl.doe.gov/education/internships/programs) | 2026-11-09 |
-| PNNL Energy and Environment Internship Program | [Program source](https://www.pnnl.gov/internships) | 2026-11-09 |
+## Official application references
 
-## Additional application references
+The guide’s initial research was reviewed November 9, 2026. Check current instructions before applying.
 
-- [SULI application instructions](https://science.osti.gov/wdts/suli/How-to-Apply) — application documents and online recommendations.
-- [SULI FAQs](https://science.osti.gov/wdts/suli/Frequently-Asked-Questions) — current term-specific questions and dates.
-- [CCI application instructions](https://science.osti.gov/wdts/cci/How-to-Apply/) — transcript and recommendation submission.
-- [SCGSR FAQs](https://science.osti.gov/wdts/scgsr/Frequently-Asked-Questions) — thesis collaboration, application and participation conditions.
-- [Sandia internship requirements](https://www.sandia.gov/careers/careers/students-and-postdocs/internships-co-ops/) — academic and application requirements.
-- [LLNL student hiring overview](https://www.llnl.gov/join-our-team/careers/student-internship-veteran-programs) — hiring and international-student considerations.
-- [Fermilab internship FAQs](https://internships.fnal.gov/faqs/) — international students and program-specific eligibility.
+- [SULI eligibility](https://science.osti.gov/wdts/suli/Eligibility), [application instructions](https://science.osti.gov/wdts/suli/How-to-Apply) and [FAQs](https://science.osti.gov/wdts/suli/Frequently-Asked-Questions).
+- [CCI eligibility](https://science.osti.gov/wdts/cci/Eligibility) and [application instructions](https://science.osti.gov/wdts/cci/How-to-Apply/).
+- [SCGSR eligibility](https://science.osti.gov/wdts/scgsr/Eligibility) and [FAQs](https://science.osti.gov/wdts/scgsr/Frequently-Asked-Questions).
+- [Visiting Faculty Program eligibility](https://science.osti.gov/wdts/vfp/Eligibility).
+- [Sandia internship requirements](https://www.sandia.gov/careers/careers/students-and-postdocs/internships-co-ops/) and [FAQs](https://www.sandia.gov/careers/careers/students-and-postdocs/internships-co-ops/institute-programs/faqs/).
+- [Oak Ridge Research Student Internships](https://www.ornl.gov/internships/rsi/).
+- [Los Alamos student programs](https://lanl.jobs/students).
+- [LLNL student hiring overview](https://www.llnl.gov/join-our-team/careers/student-internship-veteran-programs).
+- [Idaho National Laboratory internships](https://inl.gov/internships/).
+- [SLAC summer internships](https://careers.slac.stanford.edu/slac-summer-internship-program).
+- [NETL internship programs](https://netl.doe.gov/education/internships/programs).
 
-## Maintain this guide
+## Maintain the guide
 
-1. Assign a faculty owner and student ambassador in each participating department; record real contacts locally before announcing office hours.
-2. During recruitment, review program links and deadlines monthly and again two weeks before a promoted deadline. Review the full directory each semester.
-3. Edit `build_content.py` for directory records, regenerate with `python build_content.py`, then run `mkdocs build --strict`. The JSON dataset and CSV download are generated from the same records.
-4. Record the reviewed date, URL, academic level, citizenship, authorization, deadline with timezone, funding and current contact. Do not infer citizenship from a lab name.
-5. If a source is unclear, retain “confirm with program.” If a program is suspended, mark it accordingly or replace the record, and explain the change in the repository history.
-6. Ask students for opt-in, anonymized feedback about confusing instructions. Program offices handle official eligibility questions; international offices handle individual authorization questions.
+1. Assign a faculty owner and department ambassador, and record approved contacts before announcing office hours.
+2. Update opportunity listings in the shared spreadsheet. Review promoted deadlines and eligibility against the official program page before sending reminders.
+3. Edit website guidance in `docs/`, then run `mkdocs build --strict`. There is no opportunity-directory generator to run.
+4. If a requirement is unclear, ask the program office and mark it as needing confirmation. Do not infer citizenship eligibility from a laboratory name.
+5. Review guidance and contact information each semester. Collect optional, anonymized feedback about confusing application steps.
 
-**Current limits:** most deadlines and compensation are deliberately linked to the current announcement because they vary by term or position. The directory does not automatically refresh and the browser shortlist does not sync between devices. No department contact roster has been supplied yet.
+The application checklist is stored locally in the visitor’s browser. No department contact roster has been supplied yet. This website does not submit applications or change spreadsheet permissions.

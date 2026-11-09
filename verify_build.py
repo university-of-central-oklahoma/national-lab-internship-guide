@@ -1,8 +1,7 @@
-"""Check generated local links/assets and directory/download consistency."""
+"""Check generated local links/assets and the shared spreadsheet link."""
 from pathlib import Path
 from html.parser import HTMLParser
 from urllib.parse import urlsplit, unquote
-import csv, json
 
 root = (Path(__file__).parent/'dist').resolve()
 errors=[]
@@ -23,10 +22,9 @@ class Page(HTMLParser):
 files=list(root.rglob('*.html'))
 for file in files:
     page=Page();page.file=file;page.feed(file.read_text(encoding='utf-8'))
-records=json.loads((root.parent/'data/opportunities.json').read_text(encoding='utf-8'))
-with (root/'downloads/opportunities.csv').open(encoding='utf-8-sig') as f: rows=list(csv.DictReader(f))
-assert len(records)==len(rows)==30
-assert (root/'opportunities/index.html').read_text(encoding='utf-8').count('class="opportunity"')==30
-print(f'{len(files)} HTML pages; {references} local links/assets; {len(errors)} broken; 30 directory records match CSV.')
+home=(root/'index.html').read_text(encoding='utf-8')
+assert 'https://docs.google.com/spreadsheets/d/1XfAbQf3lic7tOpiT_JgilAPFzAPPrtLPZBIZlM1TGBk/edit?usp=sharing' in home
+assert not (root/'opportunities/index.html').exists()
+print(f'{len(files)} HTML pages; {references} local links/assets; {len(errors)} broken; shared spreadsheet linked; old directory removed.')
 for error in errors: print(error)
 raise SystemExit(bool(errors))

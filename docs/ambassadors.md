@@ -54,4 +54,4 @@ Avoid collecting passport, visa, banking, transcript or recommendation files in 
 
 Update the source-review dates and next cycle’s known calendar. Remove unverified or departed contacts. Save approved workshop slides, common questions and a brief lessons-learned note. Recruit and train the next ambassador before the current one leaves.
 
-The website’s shortlist and checklists are local to each browser. They are not a department application database or submission portal.
+Maintain opportunity listings in the [shared spreadsheet](https://docs.google.com/spreadsheets/d/1XfAbQf3lic7tOpiT_JgilAPFzAPPrtLPZBIZlM1TGBk/edit?usp=sharing). The website’s application checklist is local to each browser; it is not a department application database or submission portal.
