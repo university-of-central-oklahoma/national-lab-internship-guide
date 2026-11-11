@@ -47,4 +47,4 @@ National labs need more than one kind of researcher. Explore computing, energy, 
 
 Pick three opportunities. Write down why each fits your interests, record the official application deadline and timezone, and identify one person who can answer a specific question. Then open the [application toolkit](toolkit.md) and start your checklist.
 
-<p class="fine">Program requirements can change. Read the <a href="sources/">sources for uptodate info</a>.</p>
+<p class="fine">Have a question? Read the <a href="faq/">FAQ and official application references</a>.</p>

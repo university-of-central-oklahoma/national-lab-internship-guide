@@ -21,7 +21,7 @@ py -m venv .venv
 
 ## Maintain content
 
-Edit guide pages in `docs/`. Maintain listings directly in the [shared spreadsheet](https://docs.google.com/spreadsheets/d/1XfAbQf3lic7tOpiT_JgilAPFzAPPrtLPZBIZlM1TGBk/edit?usp=sharing); spreadsheet edits do not require rebuilding the site. There is no directory generator or fixed opportunity count. The homepage, toolkit, eligibility, committee and source pages link to the spreadsheet.
+Edit guide pages in `docs/`. Maintain listings directly in the [shared spreadsheet](https://docs.google.com/spreadsheets/d/1XfAbQf3lic7tOpiT_JgilAPFzAPPrtLPZBIZlM1TGBk/edit?usp=sharing); spreadsheet edits do not require rebuilding the site. There is no directory generator or fixed opportunity count. The homepage, toolkit, eligibility, committee and FAQ pages link to the spreadsheet.
 
 Run `python verify_build.py` after building to check local references and the spreadsheet link. Serve `dist/` on any static host. Sites hosting is configured in `.openai/hosting.json`.
 

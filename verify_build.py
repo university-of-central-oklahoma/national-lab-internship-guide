@@ -2,8 +2,11 @@
 from pathlib import Path
 from html.parser import HTMLParser
 from urllib.parse import urlsplit, unquote
+import yaml
 
 root = (Path(__file__).parent/'dist').resolve()
+config = yaml.safe_load((root.parent/'mkdocs.yml').read_text(encoding='utf-8'))
+site_path = urlsplit(config.get('site_url', '')).path.rstrip('/')
 errors=[]
 references=0
 class Page(HTMLParser):
@@ -13,7 +16,10 @@ class Page(HTMLParser):
             if key not in ('href','src') or not value: continue
             url=urlsplit(value)
             if url.scheme or url.netloc: continue
-            target = root/unquote(url.path).lstrip('/') if url.path.startswith('/') else self.file.parent/unquote(url.path)
+            local_path = unquote(url.path)
+            if site_path and (local_path == site_path or local_path.startswith(site_path + '/')):
+                local_path = local_path[len(site_path):] or '/'
+            target = root/local_path.lstrip('/') if local_path.startswith('/') else self.file.parent/local_path
             if not url.path: target=self.file
             if target.is_dir(): target=target/'index.html'
             references+=1

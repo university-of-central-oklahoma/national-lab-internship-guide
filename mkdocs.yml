@@ -29,7 +29,7 @@ nav:
   - Faculty guide: faculty.md
   - Research Internship Advisory Committee: committee.md
   - Templates & tracker: toolkit.md
-  - Sources & upkeep: sources.md
+  - FAQ: faq.md
 plugins:
   - search
 markdown_extensions:
