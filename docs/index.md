@@ -11,12 +11,13 @@ hide:
 Turn an interest in research into a focused application. Find your pathway, prepare your materials, connect with researchers, and arrive ready to contribute.
 
 <a class="button" href="students/roadmap/">Build your application →</a>
-<a class="button secondary" href="https://docs.google.com/spreadsheets/d/1XfAbQf3lic7tOpiT_JgilAPFzAPPrtLPZBIZlM1TGBk/edit?usp=sharing" target="_blank" rel="noopener">Open opportunities spreadsheet ↗</a>
+<a class="button secondary" href="https://docs.google.com/spreadsheets/d/1XfAbQf3lic7tOpiT_JgilAPFzAPPrtLPZBIZlM1TGBk/edit?gid=0#gid=0" target="_blank" rel="noopener">DOE opportunities ↗</a>
+<a class="button secondary" href="https://docs.google.com/spreadsheets/d/1XfAbQf3lic7tOpiT_JgilAPFzAPPrtLPZBIZlM1TGBk/edit?gid=1254811916#gid=1254811916" target="_blank" rel="noopener">Non-DOE opportunities ↗</a>
 </div>
 
 <div class="stats"><div><strong>3</strong><span>guides for your campus community</span></div><div><strong>1</strong><span>clear route from interest to arrival</span></div></div>
 
-Opportunities are maintained in the [shared spreadsheet](https://docs.google.com/spreadsheets/d/1XfAbQf3lic7tOpiT_JgilAPFzAPPrtLPZBIZlM1TGBk/edit?usp=sharing). Check each program’s official announcement for current eligibility and deadlines.
+Opportunities are maintained in the [DOE opportunities](https://docs.google.com/spreadsheets/d/1XfAbQf3lic7tOpiT_JgilAPFzAPPrtLPZBIZlM1TGBk/edit?gid=0#gid=0) and [Non-DOE opportunities](https://docs.google.com/spreadsheets/d/1XfAbQf3lic7tOpiT_JgilAPFzAPPrtLPZBIZlM1TGBk/edit?gid=1254811916#gid=1254811916). Check each program’s official announcement for current eligibility and deadlines.
 
 ## A place to start. A plan to follow.
 
@@ -37,7 +38,7 @@ National labs need more than one kind of researcher. Explore computing, energy, 
 | Your starting point | A useful first stop |
 | --- | --- |
 | Undergraduate or recent graduate | [DOE SULI](https://science.osti.gov/wdts/suli/), then direct laboratory postings |
-| Master’s student | Direct graduate internships; check the [opportunities spreadsheet](https://docs.google.com/spreadsheets/d/1XfAbQf3lic7tOpiT_JgilAPFzAPPrtLPZBIZlM1TGBk/edit?usp=sharing) |
+| Master’s student | Direct graduate internships; check the [DOE opportunities](https://docs.google.com/spreadsheets/d/1XfAbQf3lic7tOpiT_JgilAPFzAPPrtLPZBIZlM1TGBk/edit?gid=0#gid=0) and [Non-DOE opportunities](https://docs.google.com/spreadsheets/d/1XfAbQf3lic7tOpiT_JgilAPFzAPPrtLPZBIZlM1TGBk/edit?gid=1254811916#gid=1254811916) |
 | International student without permanent residency | [Eligibility guide](eligibility.md), then international pathways and individual job rules |
 | Faculty mentor or department coordinator | [Faculty guide](faculty.md) and [Research Internship Advisory Committee](committee.md) |
 

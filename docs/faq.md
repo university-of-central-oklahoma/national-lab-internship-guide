@@ -2,7 +2,7 @@
 
 ## Where can I find internship opportunities?
 
-Browse the [shared opportunities spreadsheet](https://docs.google.com/spreadsheets/d/1XfAbQf3lic7tOpiT_JgilAPFzAPPrtLPZBIZlM1TGBk/edit?usp=sharing). Follow each program’s official link to confirm current openings, eligibility and application deadlines.
+Browse the [DOE opportunities](https://docs.google.com/spreadsheets/d/1XfAbQf3lic7tOpiT_JgilAPFzAPPrtLPZBIZlM1TGBk/edit?gid=0#gid=0) and [Non-DOE opportunities](https://docs.google.com/spreadsheets/d/1XfAbQf3lic7tOpiT_JgilAPFzAPPrtLPZBIZlM1TGBk/edit?gid=1254811916#gid=1254811916). Follow each program’s official link to confirm current openings, eligibility and application deadlines.
 
 ## How do I get started?
 

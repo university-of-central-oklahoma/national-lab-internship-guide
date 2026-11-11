@@ -4,7 +4,7 @@ The Research Internship Advisory Committee is a faculty contact group for brief 
 
 ## Members & contact information
 
-Start with the student guide and opportunity spreadsheet. If you still have a question, email a relevant committee member with your major, research interest and one specific question.
+Start with the student guide and opportunity lists. If you still have a question, email a relevant committee member with your major, research interest and one specific question.
 
 | Member | Department / academic unit | Email | Official UCO source |
 | --- | --- | --- | --- |

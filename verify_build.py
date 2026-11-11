@@ -1,4 +1,4 @@
-"""Check generated local links/assets and the shared spreadsheet link."""
+"""Check generated local links/assets and both spreadsheet tab links."""
 from pathlib import Path
 from html.parser import HTMLParser
 from urllib.parse import urlsplit, unquote
@@ -29,8 +29,9 @@ files=list(root.rglob('*.html'))
 for file in files:
     page=Page();page.file=file;page.feed(file.read_text(encoding='utf-8'))
 home=(root/'index.html').read_text(encoding='utf-8')
-assert 'https://docs.google.com/spreadsheets/d/1XfAbQf3lic7tOpiT_JgilAPFzAPPrtLPZBIZlM1TGBk/edit?usp=sharing' in home
+assert 'https://docs.google.com/spreadsheets/d/1XfAbQf3lic7tOpiT_JgilAPFzAPPrtLPZBIZlM1TGBk/edit?gid=0#gid=0' in home
+assert 'https://docs.google.com/spreadsheets/d/1XfAbQf3lic7tOpiT_JgilAPFzAPPrtLPZBIZlM1TGBk/edit?gid=1254811916#gid=1254811916' in home
 assert not (root/'opportunities/index.html').exists()
-print(f'{len(files)} HTML pages; {references} local links/assets; {len(errors)} broken; shared spreadsheet linked; old directory removed.')
+print(f'{len(files)} HTML pages; {references} local links/assets; {len(errors)} broken; DOE and Non-DOE spreadsheet tabs linked; old directory removed.')
 for error in errors: print(error)
 raise SystemExit(bool(errors))
