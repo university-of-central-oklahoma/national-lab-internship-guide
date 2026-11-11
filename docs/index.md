@@ -10,9 +10,11 @@ hide:
 
 Turn an interest in research into a focused application. Find your pathway, prepare your materials, connect with researchers, and arrive ready to contribute.
 
+<div class="hero-actions">
 <a class="button" href="students/roadmap/">Build your application →</a>
 <a class="button secondary" href="https://docs.google.com/spreadsheets/d/1XfAbQf3lic7tOpiT_JgilAPFzAPPrtLPZBIZlM1TGBk/edit?gid=0#gid=0" target="_blank" rel="noopener">DOE opportunities ↗</a>
 <a class="button secondary" href="https://docs.google.com/spreadsheets/d/1XfAbQf3lic7tOpiT_JgilAPFzAPPrtLPZBIZlM1TGBk/edit?gid=1254811916#gid=1254811916" target="_blank" rel="noopener">Non-DOE opportunities ↗</a>
+</div>
 </div>
 
 <div class="stats"><div><strong>3</strong><span>guides for your campus community</span></div><div><strong>1</strong><span>clear route from interest to arrival</span></div></div>
@@ -49,3 +51,5 @@ National labs need more than one kind of researcher. Explore computing, energy, 
 Pick three opportunities. Write down why each fits your interests, record the official application deadline and timezone, and identify one person who can answer a specific question. Then open the [application toolkit](toolkit.md) and start your checklist.
 
 <p class="fine">Have a question? Read the <a href="faq/">FAQ and official application references</a>.</p>
+
+Please contact [Dr. Rhee](mailto:jrhee2@uco.edu) for any feedback or correction of this website/data.
